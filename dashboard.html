@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Panel principal</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Bienvenido a la página de incidencias</h1>
+</header>
+
+<nav>
+  <button onclick="mostrarIncidencias()">Ver incidencias</button>
+  <button onclick="mostrarFormularioIncidencia()">Registrar incidencia</button>
+
+  <button id="adminBtn" onclick="mostrarGestionUsuarios()" style="display:none">
+    Gestión usuarios / roles
+  </button>
+
+  <button class="btn-logout" onclick="logout()">Cerrar sesión</button>
+</nav>
+
+<div class="container">
+  <h2 id="welcome"></h2>
+  <div id="contenido"></div>
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/dashboard.js"></script>
+</body>
+</html>
