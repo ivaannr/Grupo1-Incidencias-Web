@@ -355,6 +355,50 @@
       "estado": "Abierta",
       "comentarios": [],
       "id": 17
+    },
+    {
+      "titulo": "tengo un problema",
+      "descripcion": "mental",
+      "categoria": "Hardware",
+      "nivel_urgencia": "Media",
+      "estado": "Pendiente",
+      "ubicacion": "gijon",
+      "usuario": {
+        "id": 11,
+        "nombre": "test",
+        "email": "test@gmail.com",
+        "rol": {
+          "id": 1,
+          "nombre_rol": "comun",
+          "descripcion": "Usuario regular del sistema"
+        },
+        "fecha_registro": "2026-04-15"
+      },
+      "fecha_registro": "2026-04-15",
+      "comentarios": [],
+      "id": 18
+    },
+    {
+      "titulo": "Cristo llego",
+      "descripcion": "tercer dia",
+      "categoria": "Conectividad",
+      "nivel_urgencia": "Media",
+      "estado": "En Curso",
+      "ubicacion": "tu cama bb",
+      "usuario": {
+        "id": 12,
+        "nombre": "aguacate",
+        "email": "pepinillaconnaranja@mandarina.com",
+        "rol": {
+          "id": 1,
+          "nombre_rol": "comun",
+          "descripcion": "Usuario regular del sistema"
+        },
+        "fecha_registro": "2026-04-15"
+      },
+      "fecha_registro": "2026-04-15",
+      "comentarios": [],
+      "id": 19
     }
   ],
   "users": [
@@ -477,6 +521,42 @@
         "descripcion": "Administrador del sistema con permisos totales"
       },
       "fecha_registro": "2025-10-21"
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$34gtz2BoKFSGz0qOHE/jDeVtXCwqVq4jO/9nkYPDTTWrcKMnvQYIi",
+      "nombre": "test",
+      "rol": {
+        "id": 1,
+        "nombre_rol": "comun",
+        "descripcion": "Usuario regular del sistema"
+      },
+      "fecha_registro": "2026-04-15",
+      "id": 11
+    },
+    {
+      "email": "pepinillaconnaranja@mandarina.com",
+      "password": "$2a$10$05vRWs.xBcQ.1QN5yX7HoeNV5o2nCz4RUS7fj8En7jfWPBCB3aAdy",
+      "nombre": "aguacate",
+      "rol": {
+        "id": 1,
+        "nombre_rol": "comun",
+        "descripcion": "Usuario regular del sistema"
+      },
+      "fecha_registro": "2026-04-15",
+      "id": 12
+    },
+    {
+      "email": "ivanxd@gmail.com",
+      "password": "$2a$10$BZcGa76rwcXrOfs4zSued.7AHxpeup8cRKMGQzWUwc47iJ.ddj4Yy",
+      "nombre": "Iván",
+      "rol": {
+        "id": 1,
+        "nombre_rol": "admin",
+        "descripcion": "Usuario regular del sistema"
+      },
+      "fecha_registro": "2026-04-15",
+      "id": 13
     }
   ],
   "roles": [
