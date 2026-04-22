@@ -58,7 +58,7 @@ function AppLayout() {
 
       <footer className="main-footer">
         <img src="/img/n1circle.png" alt="Logo numero 1" className="footer-icon" />
-        <p>Grupo 1 · Sistema de incidencias</p>
+        <p>Grupo 1 - Incidencias N1</p>
       </footer>
     </div>
   );

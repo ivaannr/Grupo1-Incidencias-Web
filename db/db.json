@@ -399,6 +399,94 @@
       "fecha_registro": "2026-04-15",
       "comentarios": [],
       "id": 19
+    },
+    {
+      "titulo": "E2E Incident 1776856871203",
+      "descripcion": "Descripcion creada por test E2E",
+      "categoria": "Hardware",
+      "nivel_urgencia": "Alta",
+      "estado": "En Curso",
+      "ubicacion": "Sala E2E",
+      "usuario": {
+        "id": 9,
+        "nombre": "Patricia",
+        "email": "patricia.gomez@educastur.org",
+        "rol": {
+          "id": 2,
+          "nombre_rol": "admin",
+          "descripcion": "Administrador del sistema con permisos totales"
+        },
+        "fecha_registro": "2025-10-21"
+      },
+      "fecha_registro": "2026-04-22",
+      "comentarios": [],
+      "id": 20
+    },
+    {
+      "titulo": "E2E Incident 1776856961139",
+      "descripcion": "Descripcion creada por test E2E",
+      "categoria": "Hardware",
+      "nivel_urgencia": "Alta",
+      "estado": "En Curso",
+      "ubicacion": "Sala E2E",
+      "usuario": {
+        "id": 9,
+        "nombre": "Patricia",
+        "email": "patricia.gomez@educastur.org",
+        "rol": {
+          "id": 2,
+          "nombre_rol": "admin",
+          "descripcion": "Administrador del sistema con permisos totales"
+        },
+        "fecha_registro": "2025-10-21"
+      },
+      "fecha_registro": "2026-04-22",
+      "comentarios": [],
+      "id": 21
+    },
+    {
+      "titulo": "E2E Incident 1776856977964",
+      "descripcion": "Descripcion creada por test E2E",
+      "categoria": "Hardware",
+      "nivel_urgencia": "Alta",
+      "estado": "En Curso",
+      "ubicacion": "Sala E2E",
+      "usuario": {
+        "id": 9,
+        "nombre": "Patricia",
+        "email": "patricia.gomez@educastur.org",
+        "rol": {
+          "id": 2,
+          "nombre_rol": "admin",
+          "descripcion": "Administrador del sistema con permisos totales"
+        },
+        "fecha_registro": "2025-10-21"
+      },
+      "fecha_registro": "2026-04-22",
+      "comentarios": [],
+      "id": 22
+    },
+    {
+      "titulo": "E2E Incident 1776857008750",
+      "descripcion": "Descripcion creada por test E2E",
+      "categoria": "Hardware",
+      "nivel_urgencia": "Alta",
+      "estado": "En Curso",
+      "ubicacion": "Sala E2E",
+      "usuario": {
+        "id": 9,
+        "nombre": "Patricia",
+        "email": "patricia.gomez@educastur.org",
+        "rol": {
+          "id": 2,
+          "nombre_rol": "admin",
+          "descripcion": "Administrador del sistema con permisos totales"
+        },
+        "fecha_registro": "2025-10-21"
+      },
+      "fecha_registro": "2026-04-22",
+      "comentarios": [],
+      "id": 23
     }
   ],
   "users": [
@@ -557,6 +645,54 @@
       },
       "fecha_registro": "2026-04-15",
       "id": 13
+    },
+    {
+      "email": "e2e.user.1776856871211@example.com",
+      "password": "$2a$10$GKF9W8Iy038..RTHqaAyh.di6/ubqb.4bqlz46pETi3r9864DFjny",
+      "nombre": "E2E User",
+      "rol": {
+        "id": 1,
+        "nombre_rol": "comun",
+        "descripcion": "Usuario regular del sistema"
+      },
+      "fecha_registro": "2026-04-22",
+      "id": 14
+    },
+    {
+      "email": "e2e.user.1776856961156@example.com",
+      "password": "$2a$10$PpS821ZvcVtqQHh5byE0QuwG3YnyXstONrX3kAEhGpErU.wQM1qLW",
+      "nombre": "E2E User",
+      "rol": {
+        "id": 1,
+        "nombre_rol": "comun",
+        "descripcion": "Usuario regular del sistema"
+      },
+      "fecha_registro": "2026-04-22",
+      "id": 15
+    },
+    {
+      "email": "e2e.user.1776856977972@example.com",
+      "password": "$2a$10$5C2yNy9nQos32ShF0pWFBuPd/AVONhXiJ4PLYHKb7LuN1Z.It2wHO",
+      "nombre": "E2E User",
+      "rol": {
+        "id": 1,
+        "nombre_rol": "comun",
+        "descripcion": "Usuario regular del sistema"
+      },
+      "fecha_registro": "2026-04-22",
+      "id": 16
+    },
+    {
+      "email": "e2e.user.1776857008757@example.com",
+      "password": "$2a$10$QdD.k5rvVxywtMY2Avyl1u4adYUhdUEt9a/.pKKOxrYYXKrx5qeeS",
+      "nombre": "E2E User",
+      "rol": {
+        "id": 1,
+        "nombre_rol": "comun",
+        "descripcion": "Usuario regular del sistema"
+      },
+      "fecha_registro": "2026-04-22",
+      "id": 17
     }
   ],
   "roles": [

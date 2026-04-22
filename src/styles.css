@@ -161,7 +161,6 @@ a {
 
 .welcome-card,
 .panel-card {
-  width: min(940px, 100%);
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -286,7 +285,6 @@ h3 {
 }
 
 .form-card {
-  max-width: 860px;
 }
 
 .form-grid {
