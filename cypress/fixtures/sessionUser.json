@@ -1,0 +1,11 @@
+{
+  "id": 9,
+  "nombre": "Patricia",
+  "email": "patricia.gomez@educastur.org",
+  "rol": {
+    "id": 2,
+    "nombre_rol": "admin",
+    "descripcion": "Administrador del sistema con permisos totales"
+  },
+  "fecha_registro": "2025-10-21"
+}
